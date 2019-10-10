@@ -1,0 +1,62 @@
+.mars-bar {
+  position: relative;
+  padding: 5px;
+  background: #333;
+  width: 100%;
+  z-index: 9999;
+  box-shadow: #e74c3c 0 0 25px 10px;
+  font-size: 14px !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.mars-bar a, .mars-bar a:visited, .mars-bar a:active, .mars-bar a:link  {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+}
+.mars-bar a:hover {
+  color: #e74c3c;
+  text-decoration: none;
+}
+
+.screenshot {
+  top: 0;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 50%;
+  border: 5px solid #e74c3c;
+  z-index: 9999;
+}
+
+/* Martianize */
+
+.martianized input.gNO89b, .martianized input.RNmpXc {
+  color: #e74c3c !important;
+  border: 2px solid #e74c3c !important;
+  border-radius: 3px !important;
+  background: #ffffff !important;
+}
+
+.martianized input.gNO89b:hover, .martianized input.RNmpXc:hover {
+  background: #e74c3c !important;
+  color: #ffffff !important;
+}
+
+.martianized a, .martianized a:visited, .martianized a:active, .martianized a:link {
+  color: #e74c3c !important;
+}
+
+.martianized a:hover {
+  color: #921e12 !important;
+}
+
+.martianized .RNNXgb {
+  background: #f3f3f3 !important;
+  border-radius: 0px !important;
+  border: 0px;
+}
